@@ -1,5 +1,5 @@
 import type { NextPage } from 'next';
-import Title from '../components/Title';
+import Title from '../components/atoms/Title';
 import style from '../styles/home.module.css';
 
 const Home: NextPage = () => {
